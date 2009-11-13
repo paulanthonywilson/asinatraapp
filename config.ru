@@ -1,3 +1,3 @@
-require 'aisdecode_sinatra'
+require 'asinatraapp'
 
 run Sinatra::Application
